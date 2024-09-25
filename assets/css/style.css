@@ -1,0 +1,55 @@
+@font-face {
+    font-family: roboto;
+    src: url(../lib/roboto/Roboto-Regular.ttf);
+}
+body{
+    background-color: white;
+    text-align: center;
+}
+header{
+    background-image: url(../image/banner-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+h1{
+   color: white;
+   text-align: center;
+   font-size: 80px;
+}
+p{
+    text-align: center;
+    color: white;
+}
+a{
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    padding: 6px 18px;
+    color: black;
+}
+h2{
+    color: black;
+    font-size: 40px;
+}
+main>p{
+    color: black;
+}
+main>a{
+    background-color: black;
+    border-radius: 50px;
+    padding: 6px 18px;
+    color: white;
+}
+footer{
+    background-image: url(../image/banner-2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    margin-top: 150px;
+}
+footer>a{
+    padding: 300px;
+}
