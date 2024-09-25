@@ -51,5 +51,13 @@ footer{
     margin-top: 150px;
 }
 footer>a{
-    padding: 300px;
+    padding: 300px;   
+}
+header>a:hover {
+    background-color: black;
+    color: white;
+}
+main>a:hover {
+    background-color: rgb(139, 7, 7);
+    color: black;
 }
